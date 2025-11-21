@@ -1,0 +1,3 @@
+go to the build or fr_env directory and activate that env.
+source build_env/bin/activate≈y
+≈

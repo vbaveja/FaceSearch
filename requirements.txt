@@ -1,0 +1,10 @@
+numpy
+faiss-cpu
+pillow
+pillow-heif
+opencv-python
+insightface
+onnxruntime
+PySide6
+tqdm
+pyinstaller

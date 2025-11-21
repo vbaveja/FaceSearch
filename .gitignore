@@ -1,0 +1,25 @@
+# Python
+__pycache__/
+*.pyc
+
+# Virtual environments
+fr_env/
+build_env/
+venv/
+
+# PyInstaller build artifacts
+build/
+dist/
+*.spec
+
+# macOS cruft
+.DS_Store
+
+# DMG and other large binaries
+*.dmg
+*.icns
+
+# FaceSearch data
+data/
+FaceSearchData/
+
